@@ -12,3 +12,4 @@ services:
 networks:
   services:
     name: Knightly
+    external: true
